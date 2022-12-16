@@ -1,3 +1,6 @@
-## Social-Complexity
+### Modelación del impacto en el desempleo ante alzas en los salarios mínimos
 
-Endogenous changes in employment for an small markets
+El propósito del notebook es ofrecer un modelo computacional que permita estudiar el desempleo en mercado informales pequeños como es el de las empleadas domésticas.
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/PhysTony/Social-Complexity/main
